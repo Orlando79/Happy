@@ -1,0 +1,5 @@
+/home/grai/Каталоги/Навчання/Семестр №4/Програми/Навчальна практика/Z_9/Collections/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/grai/Каталоги/Навчання/Семестр №4/Програми/Навчальна практика/Z_9/Collections/bin/Debug/Collections.exe.mdb
+/home/grai/Каталоги/Навчання/Семестр №4/Програми/Навчальна практика/Z_9/Collections/bin/Debug/Collections.exe
+/home/grai/Каталоги/Навчання/Семестр №4/Програми/Навчальна практика/Z_9/Collections/obj/x86/Debug/Collections.exe
+/home/grai/Каталоги/Навчання/Семестр №4/Програми/Навчальна практика/Z_9/Collections/obj/x86/Debug/Collections.exe.mdb
