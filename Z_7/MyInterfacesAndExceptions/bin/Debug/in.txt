@@ -1,0 +1,4 @@
+Food Onion 7,20 2,12
+Beverage Milk 7,8 1,5
+Food Bread 18 0,4
+Beverage Water 5 1,5
