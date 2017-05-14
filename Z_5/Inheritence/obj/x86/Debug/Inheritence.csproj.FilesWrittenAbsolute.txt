@@ -1,0 +1,5 @@
+/home/grai/Каталоги/Навчання/Семестр №4/Програми/Навчальна практика/Z_5/Inheritence/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/grai/Каталоги/Навчання/Семестр №4/Програми/Навчальна практика/Z_5/Inheritence/bin/Debug/Inheritence.exe.mdb
+/home/grai/Каталоги/Навчання/Семестр №4/Програми/Навчальна практика/Z_5/Inheritence/bin/Debug/Inheritence.exe
+/home/grai/Каталоги/Навчання/Семестр №4/Програми/Навчальна практика/Z_5/Inheritence/obj/x86/Debug/Inheritence.exe
+/home/grai/Каталоги/Навчання/Семестр №4/Програми/Навчальна практика/Z_5/Inheritence/obj/x86/Debug/Inheritence.exe.mdb
