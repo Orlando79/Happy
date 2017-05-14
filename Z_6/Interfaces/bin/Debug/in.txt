@@ -1,0 +1,4 @@
+    Food   Bread   23,15     2,5
+Beverage   Water   10,75     1,5
+    Food    Rice     2,5    21,5
+Beverage    Milk   15,25       3

@@ -1,0 +1,5 @@
+/home/grai/Каталоги/Навчання/Семестр №4/Програми/Навчальна практика/Z_6/Interfaces/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/grai/Каталоги/Навчання/Семестр №4/Програми/Навчальна практика/Z_6/Interfaces/bin/Debug/Interfaces.exe.mdb
+/home/grai/Каталоги/Навчання/Семестр №4/Програми/Навчальна практика/Z_6/Interfaces/bin/Debug/Interfaces.exe
+/home/grai/Каталоги/Навчання/Семестр №4/Програми/Навчальна практика/Z_6/Interfaces/obj/x86/Debug/Interfaces.exe
+/home/grai/Каталоги/Навчання/Семестр №4/Програми/Навчальна практика/Z_6/Interfaces/obj/x86/Debug/Interfaces.exe.mdb
