@@ -1,0 +1,5 @@
+/home/grai/Каталоги/Навчання/Семестр №4/Програми/Навчальна практика/Z_10/Serialization/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/grai/Каталоги/Навчання/Семестр №4/Програми/Навчальна практика/Z_10/Serialization/bin/Debug/Serialization.exe.mdb
+/home/grai/Каталоги/Навчання/Семестр №4/Програми/Навчальна практика/Z_10/Serialization/bin/Debug/Serialization.exe
+/home/grai/Каталоги/Навчання/Семестр №4/Програми/Навчальна практика/Z_10/Serialization/obj/x86/Debug/Serialization.exe
+/home/grai/Каталоги/Навчання/Семестр №4/Програми/Навчальна практика/Z_10/Serialization/obj/x86/Debug/Serialization.exe.mdb

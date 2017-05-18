@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Products xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <anyType xsi:type="Food">
+    <Name>Bread</Name>
+    <Price>23</Price>
+    <Weight>54</Weight>
+  </anyType>
+  <anyType xsi:type="Beverage">
+    <Name>Water</Name>
+    <Price>54</Price>
+    <Volume>12</Volume>
+  </anyType>
+  <anyType xsi:type="Food">
+    <Name>Rice</Name>
+    <Price>65</Price>
+    <Weight>12</Weight>
+  </anyType>
+  <anyType xsi:type="Beverage">
+    <Name>Milk</Name>
+    <Price>132</Price>
+    <Volume>12</Volume>
+  </anyType>
+  <anyType xsi:type="Food">
+    <Name>Meat</Name>
+    <Price>6</Price>
+    <Weight>82</Weight>
+  </anyType>
+</Products>
