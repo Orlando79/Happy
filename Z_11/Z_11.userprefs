@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="LINQs/LINQs.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LINQs/bin/Debug/in.txt">
+    <Files>
+      <File FileName="LINQs/Program.cs" Line="7" Column="16" />
+      <File FileName="LINQs/bin/Debug/in.txt" Line="7" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

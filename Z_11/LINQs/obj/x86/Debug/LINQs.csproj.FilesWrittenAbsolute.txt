@@ -1,0 +1,5 @@
+/home/grai/Z_11/LINQs/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/grai/Z_11/LINQs/bin/Debug/LINQs.exe.mdb
+/home/grai/Z_11/LINQs/bin/Debug/LINQs.exe
+/home/grai/Z_11/LINQs/obj/x86/Debug/LINQs.exe
+/home/grai/Z_11/LINQs/obj/x86/Debug/LINQs.exe.mdb
